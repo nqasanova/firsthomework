@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-sing System;
+using System;
 
 namespace Kargo_sifarislerinin_hazirlanmasi_ucun_proqram
 {
